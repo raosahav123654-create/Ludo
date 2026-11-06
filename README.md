@@ -1,1 +1,15 @@
 # Ludo
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chess Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Chess Game</h1>
+  <div id="board"></div>
+  <script src="script.js"></script>
+</body>
+</html>
